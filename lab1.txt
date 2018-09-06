@@ -1,0 +1,14 @@
+first program 
+step-1:-opened a github account.
+step-2:-then opened the terminal.
+In the terminal
+step1:-type pwd
+step2:-type mkdir lekhana
+step3:-type ls -l(shows the directories)
+step4:-man ls(it shows the manual of the various options)
+step5:-type subl(it opens the sublime text window)
+step6:-here type 'print("welcome to your first program")'
+step7:-then we will have to save the file under save as with a extension ".py"
+step8:-return back to the terminal window and then type "cd lekhana"(it shows the 
+step9:-enter the option name python3
+step10:-typegedit lab1.txt
