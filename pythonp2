@@ -1,0 +1,25 @@
+a=int(input("enter the marks"))
+if a>=90:
+	print("A+")
+elif a>=80:
+ 	print("A")
+elif a>=70:
+	print("B+")
+elif a>=50:
+	print("C")
+else:
+	print("fail")
+
+dl309@soetcse:~/lekhana$ python3 pgmarks.py
+enter the marks30
+C
+dl309@soetcse:~/lekhana$ 
+dl309@soetcse:~/lekhana$ python3 pgmarks.py
+  File "pgmarks.py", line 8
+    elif a=50:
+          ^
+SyntaxError: invalid syntax
+dl309@soetcse:~/lekhana$ python3 pgmarks.py
+enter the marks43
+fail
+

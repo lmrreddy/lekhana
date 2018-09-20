@@ -1,0 +1,29 @@
+l309@soetcse:~/lekhana$ python3
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=89
+>>> b=76
+>>> a>b
+True
+>>> a<b
+False
+>>> a>=b
+True
+>>> a<=b
+False
+>>> a!=
+  File "<stdin>", line 1
+    a!=
+      ^
+SyntaxError: invalid syntax
+>>> a!=b
+True
+>>> a%b
+13
+>>> a//b
+1
+>>> a**b
+14244280098228244151374304155320515655082630424786494695527020922525628987664484896048309636655552841705833511778798583054903454494959380806088128161
+>>> 
+
