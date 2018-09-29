@@ -1,0 +1,2 @@
+namelist={1:'Henry',2:'Raj',3:'Ammu'}
+print(namelist[3])
