@@ -1,14 +1,14 @@
 import random
 print("lets play the game")
 def computer():
-	number=random.randint(1,3):
-	 if (computer == 0):
-	 	computer = "Rock";
-    elif (computer == 1):
-      	 computer = "Paper";
-    elif (computer == 2):
-      	 computer = "Scissors";
-player=input("enter 1 for rock,2 for paper,3 for scissors")
+	number=random.randint(1,3)
+if (computer == 0):
+	computer = "Rock";
+elif (computer == 1):
+	computer = "Paper";
+elif (computer == 2):
+	computer = "Scissors";
+player=int(input("enter 1 for rock,2 for paper,3 for scissors"))
 	if player==computer:
 		print("Tie!")
 	elif player=="rock":
