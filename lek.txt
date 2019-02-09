@@ -1,0 +1,35 @@
+cmruuser@cmruuser:~$ gcc D1.c
+cmruuser@cmruuser:~$ ./a.out
+c programming
+cmruuser@cmruuser:~$ gcc D1.c
+cmruuser@cmruuser:~$ ./a.out
+number=5cmruuser@cmruuser:~$ gcc d2.c
+cmruuser@cmruuser:~$ ./a.out
+number=5cmruuser@cmruuser:~$ gcc d3.c
+cmruuser@cmruuser:~$ ./a.out
+enter a number:3
+cmruuser@cmruuser:~$ gcc d3.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a number:23.4
+cmruuser@cmruuser:~$ gcc d4.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a character:m
+you entered m,cmruuser@cmruuser:~$ gcc d4.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a character:m
+you entered m,cmruuser@cmruuser:~$ gcc d4.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a character:m
+you entered m.
+cmruuser@cmruuser:~$ gcc d4.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a character:m
+you entered 'm'.
+cmruuser@cmruuser:~$ gcc d3.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a number:23.4
+you entered 23.400000cmruuser@cmruuser:~$ gcc d4.c
+cmruuser@cmruuser:~$ ./a.out
+Enter a character:m
+you entered 'm'.
+
